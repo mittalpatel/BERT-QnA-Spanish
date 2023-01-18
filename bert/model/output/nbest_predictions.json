@@ -1,0 +1,102 @@
+{
+    "56ddde6b9a695914005b9628": [
+        {
+            "text": "motor de b\u00fasqueda de contenido en Internet",
+            "probability": 0.7811670105279432,
+            "start_logit": 8.267858505249023,
+            "end_logit": 8.81051254272461
+        },
+        {
+            "text": "el motor de b\u00fasqueda de contenido en Internet",
+            "probability": 0.17626330116990294,
+            "start_logit": 6.779048442840576,
+            "end_logit": 8.81051254272461
+        },
+        {
+            "text": "motor de b\u00fasqueda de contenido en Internet,",
+            "probability": 0.042569688302153755,
+            "start_logit": 8.267858505249023,
+            "end_logit": 5.9008660316467285
+        }
+    ],
+    "56ddde6b9a695914005b9629": [
+        {
+            "text": "Haz lo correcto",
+            "probability": 0.41615472587082414,
+            "start_logit": 0.4908892810344696,
+            "end_logit": 1.3329190015792847
+        },
+        {
+            "text": "\u00abHaz lo correcto",
+            "probability": 0.4062133943445782,
+            "start_logit": 0.46671077609062195,
+            "end_logit": 1.3329190015792847
+        },
+        {
+            "text": "Haz lo correcto\u00bb",
+            "probability": 0.17763187978459766,
+            "start_logit": 0.4908892810344696,
+            "end_logit": 0.4815751910209656
+        }
+    ],
+    "56ddde6b9a695914005b962a": [
+        {
+            "text": "productos y servicios relacionados con Internet, software, dispositivos electr\u00f3nicos y otras tecnolog\u00edas",
+            "probability": 0.9571754228317941,
+            "start_logit": 10.399162292480469,
+            "end_logit": 8.83139419555664
+        },
+        {
+            "text": "productos y servicios relacionados con Internet, software, dispositivos electr\u00f3nicos y otras tecnolog\u00edas.",
+            "probability": 0.040366727290206614,
+            "start_logit": 10.399162292480469,
+            "end_logit": 5.6654133796691895
+        },
+        {
+            "text": "los productos y servicios relacionados con Internet, software, dispositivos electr\u00f3nicos y otras tecnolog\u00edas",
+            "probability": 0.002457849877999376,
+            "start_logit": 4.434462547302246,
+            "end_logit": 8.83139419555664
+        }
+    ],
+    "5ad39d53604f3c001a3fe8d3": [
+        {
+            "text": "Google Maps, Google Street View y Google Earth, el sitio web de v\u00eddeos YouTube y otras",
+            "probability": 0.4774145337399069,
+            "start_logit": 3.6830945014953613,
+            "end_logit": 2.202204942703247
+        },
+        {
+            "text": "Google Maps, Google Street View y Google Earth",
+            "probability": 0.32721469700565053,
+            "start_logit": 3.6830945014953613,
+            "end_logit": 1.8244363069534302
+        },
+        {
+            "text": "servicios de mapas Google Maps, Google Street View y Google Earth, el sitio web de v\u00eddeos YouTube y otras",
+            "probability": 0.1953707692544427,
+            "start_logit": 2.7896084785461426,
+            "end_logit": 2.202204942703247
+        }
+    ],
+    "5ad39d53604f3c001a3fe8d4": [
+        {
+            "text": "primer trimestre de 2019",
+            "probability": 0.6784881739518401,
+            "start_logit": 3.025249719619751,
+            "end_logit": 3.224226236343384
+        },
+        {
+            "text": "2019",
+            "probability": 0.17433883190550797,
+            "start_logit": 1.6663833856582642,
+            "end_logit": 3.224226236343384
+        },
+        {
+            "text": "primer trimestre de 2019.",
+            "probability": 0.1471729941426518,
+            "start_logit": 3.025249719619751,
+            "end_logit": 1.6959679126739502
+        }
+    ]
+}
